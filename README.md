@@ -66,6 +66,8 @@ The number of arguments must be 2!
 MinilibX, öğrenciler için tasarlanmış, yeni başlayanlara uygun, C dilinde basit bir X-Window programlama API'sidir.<br>
 
 Useful links:
+* [Lode's Raycasting Document](https://lodev.org/cgtutor/raycasting.html)
+* [Dounia's Medium Blogpost](https://medium.com/@rtailidounia/raycasting-in-cub3d-42-network-project-a-practical-tutorial-using-vectors-68eeb16b3de2)
 * [Harm Smits - MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx)
 * [MiniLibX](https://github.com/42Paris/minilibx-linux)
 * [Laura&Simon Gitbook](https://42-cursus.gitbook.io/guide/minilibx)
