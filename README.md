@@ -5,7 +5,7 @@ considered the first FPS ever created. It will enable you to explore ray-casting
 will be to make a dynamic view inside a maze, where you will have to find your way."
   <br>   <br>
 
-  <img src="https://raw.githubusercontent.com/fbkeskin/fbkeskin/master/imgs/"/>
+  <img src="https://raw.githubusercontent.com/fbkeskin/fbkeskin/master/spongebob.gif"/>
   
   <p align="center">
 	<h4>My first RayCaster with miniLibX!<br>
